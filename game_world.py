@@ -1,6 +1,6 @@
 import game_world
 #리스트오브리스트로만든다. 뭐가 먼저 그려질지 정하기 위해서
-objects = [[],[]]  #objects = [[depth0], [depth1]]
+objects = [[],[],[]]  #objects = [[depth0], [depth1]]
 
 
 
